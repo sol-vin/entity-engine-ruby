@@ -1,0 +1,2 @@
+class MouseService
+end
